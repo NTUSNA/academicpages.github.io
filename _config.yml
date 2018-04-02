@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "jirlong"
+  name             : "SNRG"
   avatar           : "profile.png"
-  bio              : "Associate Professor, Journalism, National Taiwan University"
+  bio              : "Social Network Research Group in National Taiwan University"
   location         : "Taiwan"
   employer         :
-  googlescholar    : "http://jirlong.github.io"
-  email            :
+  googlescholar    : 
+  email            : "ntu.socialnetwork@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jirlong"
+  github           : "ntusna"
   google_plus      :
   keybase          :
   instagram        :
