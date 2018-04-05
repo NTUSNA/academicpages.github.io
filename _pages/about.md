@@ -11,7 +11,9 @@ redirect_from:
 # Introduction
 This is the front page of the **Social Network Research Group** organized by the *Colledge of Social Science, National Taiwan University*. The [GitHub pages] is maintained by current team coordinator [Ji-Lung Hsieh](jirlong.github.io).
 
-
+# Contact
+* E-mail: ntu.socialnetwork@gmail.com
+* Twitter: ntu_sna twitter account
 
 
 # to-truncate
