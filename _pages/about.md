@@ -17,9 +17,16 @@ This is the front page of the **Social Network Research Group** organized by the
 * Twitter: [@ntu_sna](https://twitter.com/ntu_sna)
 
 # Activities
-* 2018-04-27 Meeting
+## 2018-04-27 Meeting
   * [Slide1: Academic connections between network scientists](https://docs.google.com/presentation/d/e/2PACX-1vRsHnCYfbys1RH24zukAabznikyqWuWeYl-nOGnU2t5HBXUStrIRScuzfdVolkcO0SjvXNIZpdlqG6l/pub?start=false&loop=false&delayms=3000). Presented by [Ji-Lung Hsieh](jirlong.github.io).
   * [Slide2:] by [Adrian]
 
 # Showcases
-* 
+* [Co-authors of Gary King on google scholar](https://jirlong.github.io/html/gking_coauthor_2.html)
+* [Co-authors of Lada Adamic on google scholar](https://jirlong.github.io/html/coauthor_adamic.html)
+* [Co-authorship of Social Networks authors](https://jirlong.github.io/html/coauthor_ssci.html)
+* [Facebook page network of public figures and media](https://jirlong.github.io/html/fbpage_network.html)
+* [Keywords network of Social Networks](https://jirlong.github.io/html/ssci_keyword_network.html)
+* [Friendship of network scientists on twitter](https://jirlong.github.io/html/twitter_friends_sna.html)
+
+
