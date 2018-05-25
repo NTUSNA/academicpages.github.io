@@ -21,6 +21,10 @@ This is the front page of the **Social Network Research Group** organized by the
   * [Slide1: Academic connections between network scientists](https://docs.google.com/presentation/d/e/2PACX-1vRsHnCYfbys1RH24zukAabznikyqWuWeYl-nOGnU2t5HBXUStrIRScuzfdVolkcO0SjvXNIZpdlqG6l/pub?start=false&loop=false&delayms=3000). Presented by [Ji-Lung Hsieh](jirlong.github.io).
   * [Slide2:] by [Adrian]
 
+## 2018-05-25 Meeting
+* [Slide: 陳俊廷]
+* [Slide: Ji-Lung](https://docs.google.com/presentation/d/e/2PACX-1vT9z-10g1mL8bRxgvVWcg-g_UYEr_Sa2W0hkQtQuK28jfaoGPeDS6YbeQM34zAbfvmvEmEcUbdrJhF-/pub?start=false&loop=false&delayms=3000)
+
 # Showcases
 * [Co-authors of Gary King on google scholar](https://jirlong.github.io/html/gking_coauthor_2.html)
 * [Co-authors of Lada Adamic on google scholar](https://jirlong.github.io/html/coauthor_adamic.html)
